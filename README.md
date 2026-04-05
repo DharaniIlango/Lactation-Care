@@ -6,7 +6,7 @@ A clean, easy-to-use one-page website created for Dr. Nivedha's pediatric and la
 
 This website acts as the online front door for the clinic. It highlights Dr. Nivedha's medical credentials, lists her core services, and builds trust with new patients.
 
-Running Live @ <deployed-url>
+Running Live @ https://www.lactation-guidance.com/
 
 **Key Features:**
 
