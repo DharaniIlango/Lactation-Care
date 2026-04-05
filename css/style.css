@@ -446,3 +446,8 @@ footer h2 {
 .portfolio-link:hover strong {
     color: var(--accent-color); /* Turns pink on hover */
 }
+
+/* Adds space between the copyright and your signature */
+.signature-line {
+    margin-top: 8px !important;
+}
