@@ -88,7 +88,7 @@ h3 {
 
 .brand-name {
   font-family: "Italianno", cursive;
-  font-size: 2.8rem; /* Increased size so the sweeping letters are easy to read */
+  font-size: 2.8rem; /* Increased size so it's easy to read */
   font-weight: 400; /* Hurricane is designed at a single, elegant weight */
   letter-spacing: 0.15rem;
   color: var(--primary-color);
@@ -188,7 +188,7 @@ section {
   height: 375px;
   border-radius: 50%; /* The circular frame */
   object-fit: cover;
-  border: 6px solid var(--primary-color); /* Added a purple border to make it pop against the white background */
+  border: 6px solid var(--primary-color); /* a purple border to make it pop against the white background */
   box-shadow: 0 15px 35px rgba(0, 0, 0, 0.08);
 }
 
@@ -447,7 +447,7 @@ footer h2 {
     color: var(--accent-color); /* Turns pink on hover */
 }
 
-/* Adds space between the copyright and your signature */
+/* Adds space between the copyright and signature */
 .signature-line {
     margin-top: 8px !important;
 }
